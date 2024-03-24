@@ -1,0 +1,10 @@
+{
+  "name": "Divide",
+  "description": "This is the PS Now Dynamic Theme, originally for the PS4 system, now available for Audio Loader and subsequently the Steam Deck. The music is 'Divide' by Sam Marshall, who used/composed this piece of music for the game 'Entwined.'",
+  "author": "NitroThunder224",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
